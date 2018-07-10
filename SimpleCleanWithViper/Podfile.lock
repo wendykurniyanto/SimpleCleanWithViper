@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - ObjectMapper (3.1.0)
+  - Swinject (2.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5.0)
+  - AlamofireImage (~> 3.3)
+  - AlamofireObjectMapper (~> 5.0)
+  - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  Swinject: a1364b0f66c2736bb03c1c7cab54809e16df25da
+
+PODFILE CHECKSUM: 6460d13a4df996481b58a9c2d76238acb7a44821
+
+COCOAPODS: 1.4.0

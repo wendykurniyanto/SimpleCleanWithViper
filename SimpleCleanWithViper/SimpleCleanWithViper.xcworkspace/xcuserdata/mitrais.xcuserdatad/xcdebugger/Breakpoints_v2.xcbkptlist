@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SimpleCleanWithViperTests/Main/LoginUseCaseFactoryTests.swift"
+            timestampString = "552913447.321578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "test_createdUseCase_hasComposedOuputs()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpleCleanWithViperTests.LoginUseCaseFactoryTests.test_createdUseCase_hasComposedOuputs() -&gt; ()"
+                  moduleName = "SimpleCleanWithViperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitrais/SimpleCleanWithViper/SimpleCleanWithViper/SimpleCleanWithViperTests/Main/LoginUseCaseFactoryTests.swift"
+                  timestampString = "552913482.411281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1163">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #4 : @autoclosure () throws -&gt; Swift.Optional&lt;Swift.Int&gt; in SimpleCleanWithViperTests.LoginUseCaseFactoryTests.test_createdUseCase_hasComposedOuputs() -&gt; ()"
+                  moduleName = "SimpleCleanWithViperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mitrais/SimpleCleanWithViper/SimpleCleanWithViper/SimpleCleanWithViperTests/Main/LoginUseCaseFactoryTests.swift"
+                  timestampString = "552913482.5640889"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'SimpleCleanWithViper' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SimpleCleanWithViper
+
+  target 'SimpleCleanWithViperTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'SimpleCleanWithViperUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+	
+  pod 'Swinject'
+  pod 'Alamofire', '~> 4.5.0'
+  pod 'AlamofireObjectMapper', '~> 5.0'
+  pod 'AlamofireImage', '~> 3.3'
+
+end
